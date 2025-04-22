@@ -1,0 +1,231 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    padding-bottom: 5em;
+  }
+  
+  #s1>table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 3em auto;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.3);
+    background-color: transparent;
+    border: none;
+  }
+  
+  #s1>table>thead>tr>th {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: white;
+  }
+  
+  #s1>table>tbody>td {
+    height: 2em;
+  }
+  
+  .price {
+    background-color: #002147;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: white;
+  }
+  
+  #s1>table>tbody>tr>td>img {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  #s1>table>tfoot>tr>td {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    text-align: center;
+    height: 2em;
+  }
+  
+  #s1>table>tfoot>tr {
+    height: 4em;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  .cero {
+    background-color: #002147;
+  }
+  
+  .uno {
+    background-color: blue;
+  
+  }
+  
+  .dos {
+    background-color: #8A2BE2;
+  
+  }
+  
+  .tres {
+    background-color: #FF0090;
+  
+  }
+  
+  .cuatro {
+    background-color: #F4C431;
+  
+  }
+  
+  .white {
+    background-color: white;
+  }
+  
+  .blue {
+    background-color: #F0F8FF;
+  }
+  
+  /* tabla 2 */
+  
+  .table-2 {
+    width: 80%;
+    border-spacing: 0;
+    margin: 3em auto;
+    background-color: transparent;
+    padding-bottom: 2em;
+  }
+  
+  .criterio {
+    background-color: #696969;
+    color: white;
+    text-align: center;
+    width: 80px;
+    height: 50px;
+  }
+  
+  .proyecto {
+    width: 200px;
+    font-size: 20px;
+    border-bottom: #FACA16 solid 3px;
+    padding-left: 8px;
+  }
+  
+  #s2>table>tbody>tr>td>img {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .columna {
+    background-color: #C0C0C0;
+  }
+  
+  .blanco {
+    width: 20px;
+    border-bottom: #FACA16 solid 3px;
+  }
+  
+  #s2>table>tfoot>tr>td {
+    background-color: #242124;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    height: 3em;
+  }
+  
+  .fila {
+    height: 30px;
+  }
+  
+  .span-dos {
+    color: #FACA16;
+  }
+  
+  .span-tres {
+    color: #FF33CC;
+  }
+  
+  
+  /* tabla 3 */
+  
+  #s3>table {
+    font-family: nunito;
+    width: 80%;
+    border-spacing: 0;
+    margin: 3em auto;
+    background-color: transparent;
+    /* padding-bottom: 2em; */
+    text-align: center;
+    background-color: white;
+  }
+  
+  
+  #s3>table>tbody>tr>td {
+    height: 3em;
+  }
+  
+  
+  #s3>table>thead>tr>th {
+    color: white;
+    text-align: center;
+    height: 20px;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .price-t3 {
+    font-size: 40px;
+    height: 50px;
+    color: black !important;
+  }
+  
+  .uno-t3 {
+    background-color: blue;
+  }
+  
+  .dos-t3 {
+    background-color: #8A2BE2;
+  }
+  
+  .tres-t3 {
+    background-color: #FF0090;
+  }
+  
+  .cuatro-t3 {
+    background-color: #F4C431;
+  }
+  
+  #s3>table>tbody>tr:nth-child(odd) {
+    background-color: #F0F8FF;
+    /* Color gris claro para filas pares */
+  }
+  
+  #s3>table>tbody>tr:nth-child(even) {
+    background-color: white;
+    /* Color blanco para filas impares */
+  }
+  
+  #s3>table>tfoot>tr>td {
+    color: white;
+    text-align: center;
+    height: 40px;
+    border-radius: 10px;
+  }
+  
+  .f-1 {
+    background-color: blue;
+  }
+  
+  .f-2 {
+    background-color: #8A2BE2;
+  }
+  
+  .f-3 {
+    background-color: #FF0090;
+  }
+  
+  .f-4 {
+    background-color: #F4C431;
+  }
+  
+  .blanco-t3 {
+    width: 20px;
+  }
